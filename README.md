@@ -15,3 +15,32 @@ Surge de la necesidad básica de alimentación y de economizar dinero.
 Esto porque muchas veces la población no cuenta con la economía suficiente o piensa en economizar.
 ### Efectos:
 Razón por la cual la aplicación ofrece alternativas para que el cliente cubra su necesidad básica.
+
+# MOCKUPS
+#### Primera Vista
+El usuario podrá ingresar con una cuenta de correo y una contraseña ;
+y si este con cuenta con ello entonces procederá a registrarse.
+
+
+#### Segunda Vista
+En el registro tendra que rellenar las opciones que le aparecen que son el nombre, el correo y una contraseña.
+
+
+#### Tercera Vista
+También contara con la opción de registrar tu restaurante.
+
+#### Cuarta Vista
+En esta sección se mostrarán el titulo principal de la pagina y las opciones de: Desayunos, Almuerzos y Cenas,incluido la parte opción anterior que es de registrar el restaurante.
+
+#### Quinta Vista
+Se mostrarán el nombre del restaurante, el tipo de promoción y el valor de la comida.
+
+
+#### Sexta Vista
+Se mostrarán el nombre del restaurante, el tipo de promoción y el valor de la comida.
+
+
+#### Septima Vista
+Se mostrarán el nombre del restaurante, el tipo de promoción y el valor de la comida.
+
+
