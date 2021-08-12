@@ -9,9 +9,9 @@ también contara con el registro de los restaurantes, para que la población pue
 
 # PLANTEAMIENTO DEL PROBLEMA
 
-# Causas:
+### Causas:
 Surge de la necesidad básica de alimentación y de economizar dinero.
-# Problema:
+### Problema:
 Esto porque muchas veces la población no cuenta con la economía suficiente o piensa en economizar.
-# Efectos:
+### Efectos:
 Razón por la cual la aplicación ofrece alternativas para que el cliente cubra su necesidad básica.
