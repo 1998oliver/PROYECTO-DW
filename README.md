@@ -8,10 +8,10 @@ sobre qué tipos de promociones ofrecen los restaurantes, esto contará con actu
 también contara con el registro de los restaurantes, para que la población pueda visitarlos y hacer consumo de ello.
 
 # PLANTEAMIENTO DEL PROBLEMA
-Surge de la necesidad básica de alimentación y de economizar tiempo y dinero, esto porque muchas veces la población no cuenta con la economía suficiente o piensa en economizar, razón por la cual la aplicación ofrece alternativas para que el cliente cubra su necesidad básica.Surge de la necesidad básica de alimentación y de economizar tiempo y dinero, esto porque muchas veces la población no cuenta con la economía suficiente o piensa en economizar, razón por la cual la aplicación ofrece alternativas para que el cliente cubra su necesidad básica.
-Causas:
+
+# Causas:
 Surge de la necesidad básica de alimentación y de economizar dinero.
-Problema:
+# Problema:
 Esto porque muchas veces la población no cuenta con la economía suficiente o piensa en economizar.
-Efectos:
+# Efectos:
 Razón por la cual la aplicación ofrece alternativas para que el cliente cubra su necesidad básica.
