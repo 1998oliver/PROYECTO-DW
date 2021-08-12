@@ -29,7 +29,7 @@ En el registro tendra que rellenar las opciones que le aparecen que son el nombr
 
 #### Tercera Vista
 También contara con la opción de registrar tu restaurante.
-![tercero png = 250x](https://user-images.githubusercontent.com/55850991/129127878-9b16fa03-699f-44d9-8196-54974413a74e.jpg )
+![tercero png ](https://user-images.githubusercontent.com/55850991/129127878-9b16fa03-699f-44d9-8196-54974413a74e.jpg)
 
 
 #### Cuarta Vista
