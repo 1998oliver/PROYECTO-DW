@@ -30,8 +30,16 @@ Facilita la vida de todas las personas que solicitan un domicilio, iFood ha desa
 ### Food Promotions 
 Pensado en ahorrar tiempo y principalmente dinero, Food Promotions esta mas enfatizado en la interfaz de la aplicación, se apuesta por una interfaz fácil y rápido de entender, en ello se puede visualizar todas las promociones que ofrecen los restaurantes, tanto como desayunos, almuerzos y cenas. adicionalmente la opción de ubicación mostrara los restaurantes cercanos, en la opción de domicilio se podrá pedir y pedir la cantidad de comidas que se desea pedir. 
 
-#   OBJETIVOS GENERALES 
---	Informar sobre promociones de comidas.
+#  OBJETIVO GENERAL
+- Informar  sobre promociones de comidas.
+# OBJETIVOS  ESPECÍFICOS
+-	Mantener al día con las distintas promociones de comidas tanto en desayunos, almuerzos y cenas.
+-	Proporcionar un servicio con calidad
+-	Reducir el  tiempo de búsqueda con una interfaz sencilla.
+
+# MODELO DE NEGOCIO
+![MODELO DE NEGOCIO](https://user-images.githubusercontent.com/88407964/129639589-13fd3a56-118a-4b19-b03f-c75cde58aaba.JPG)
+
 # MOCKUPS
 #### Primera Vista
 El usuario podrá ingresar con una cuenta de correo y una contraseña ;
@@ -44,26 +52,38 @@ En el registro tendra que rellenar las opciones que le aparecen que son el nombr
 
 
 #### Tercera Vista
-También contara con la opción de registrar tu restaurante.
-![tercero png ](https://user-images.githubusercontent.com/55850991/129127878-9b16fa03-699f-44d9-8196-54974413a74e.jpg)
+En esta sección se mostrarán el título principal de la página, una frase que identifica el proyecto y las opciones con las que se contará (desayunos, almuerzos y cenas), en la parte izquierda habrá la opción de registrar el restaurante, y en la zona inferior habrá la información de los creadores de la página web.
+![VISTA3](https://user-images.githubusercontent.com/88407964/129639934-9f45ec8a-aba3-492e-9d7f-2714f7e25e3e.png)
+
+ ### Desayunos 
+Se mostrarán el nombre del restaurante y el tipo de promoción que se ofrece, el total de lo que se va comprando se visualizara en la opción carrito que esta en la parte superior derecha, y en la parte inferior izquierda.
+![DESAYUNOS](https://user-images.githubusercontent.com/88407964/129640236-5fbe24f3-9773-4763-9aa0-4110613e86b6.png)
+### Almuerzos 
+Se mostrarán el nombre del restaurante y el tipo de promoción que se ofrece, el total de lo que se va comprando se visualizara en la opción carrito que está en la parte superior derecha, y en la parte inferior izquierda .
+![ALMUERZOS](https://user-images.githubusercontent.com/88407964/129640338-e8c2571c-fb41-4209-85d3-55c3d96a3f07.png)
+### Cenas
+ Se mostrarán el nombre del restaurante y el tipo de promoción que se ofrece, el total de lo que se va comprando se visualizara en la opción carrito que está en la parte superior derecha, y en la parte inferior izquierda.
+![CENAS](https://user-images.githubusercontent.com/88407964/129640404-2424b2cc-6802-4693-bd1c-935799b3e29f.png)
+  
+#### Cuarta vista
+También contara con la opción de registrar el restaurante de forma autónoma por el dueño de dicho negocio. 
+![resgitrar restaurante](https://user-images.githubusercontent.com/88407964/129640673-ecb39715-29ae-440d-9e17-f267e151fc88.png)
+
+#### Quinta vista
+La opcion de Ubicación mostrara los restaurantes cercanos al cliente y de todos los demas locales que ofrecen las promociones.
+![ubicacion](https://user-images.githubusercontent.com/88407964/129640778-59d7e8ad-9224-4c86-8b2a-b06c343b4a04.png)
+
+#  DESCRIPCIÓN DE LA APLICACIÓN
 
 
-#### Cuarta Vista
-En esta sección se mostrarán el titulo principal de la pagina y las opciones de: Desayunos, Almuerzos y Cenas,incluido la parte opción anterior que es de registrar el restaurante.
-![cuarto png](https://user-images.githubusercontent.com/55850991/129127889-b62a4749-0624-47af-a7bb-ee857184618d.jpg)
 
 
-#### Quinta Vista
-Se mostrarán el nombre del restaurante, el tipo de promoción y el valor de la comida.
-![quinto png](https://user-images.githubusercontent.com/55850991/129127900-eeeabc4d-6b1e-441c-9c19-e066962f37f3.jpg)
 
 
-#### Sexta Vista
-Se mostrarán el nombre del restaurante, el tipo de promoción y el valor de la comida.
-![sexto png](https://user-images.githubusercontent.com/55850991/129127910-641a2cb8-e53d-40cd-b3e2-ac1ff5394af9.jpg)
+# BIBLIOGRAFÍA
+EDIT.org. (s.f.). Obtenido de https://edit.org/
 
+MUYFINANCIERO. (s.f.). Obtenido de http://www.muyfinanciero.com/empresas/ifood/
 
-#### Septima Vista
-Se mostrarán el nombre del restaurante, el tipo de promoción y el valor de la comida.
-![septimo png](https://user-images.githubusercontent.com/55850991/129127919-1f759d42-d66e-4294-88b1-de61a352c693.jpg)
+TRANSPORTAMEX. (2019). Obtenido de https://transportamex.com/aplicacion/rappi/como-funciona/
 
