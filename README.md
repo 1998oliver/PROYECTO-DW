@@ -21,6 +21,15 @@ El proyecto surge a raíz de aquellas personas que piensan ahorrar dinero, a su 
 
 Food Promotions contará con la información de aquellos restaurantes que ofrecen promociones en desayunos, almuerzos y cenas; también se podrá visualizar la ubicación del restaurante para aquellos que quieran ir a consumir al local, o si cuenta con prisa el cliente tendrá la opción de pedir a domicilio.
 
+# ESTADO DEL ARTE
+Las aplicaciones que están estrechamente relacionadas con Food Promotions son:  
+### Rappi
+funciona como en el modelo tradicional de compra, pero ahora, imaginarlo con entregas a domicilio. En Rappi, hay una persona que será la encargada de realizar tus compras y/o recogerlas en los establecimientos que se encuentran registrados en la plataforma, todo esto, por medio de una orden hecha en la aplicación oficial de Rappi, o bien, en su portal web. Entendido lo anterior, hay tres partes fundamentales para el funcionamiento de Rappi: el cliente, los repartidores y las empresas afiliadas a este tipo de servicio.
+### Ifood
+Facilita la vida de todas las personas que solicitan un domicilio, iFood ha desarrollado una plataforma tecnológica innovadora que le permite a todos sus clientes realizar pedidos desde su teléfono móvil sin mayores complicaciones. Una vez los clientes se inscriben tienen acceso a cientos de restaurantes asociados en su ciudad y pueden hacer su pedido de forma fácil y segura. Uno de los valores añadidos de iFood es que los clientes pagan tarifas muy bajas por sus domicilios.
+### Food Promotions 
+Pensado en ahorrar tiempo y principalmente dinero, Food Promotions esta mas enfatizado en la interfaz de la aplicación, se apuesta por una interfaz fácil y rápido de entender, en ello se puede visualizar todas las promociones que ofrecen los restaurantes, tanto como desayunos, almuerzos y cenas. adicionalmente la opción de ubicación mostrara los restaurantes cercanos, en la opción de domicilio se podrá pedir y pedir la cantidad de comidas que se desea pedir. 
+
 #   OBJETIVOS GENERALES 
 --	Informar sobre promociones de comidas.
 # MOCKUPS
@@ -57,5 +66,4 @@ Se mostrarán el nombre del restaurante, el tipo de promoción y el valor de la 
 #### Septima Vista
 Se mostrarán el nombre del restaurante, el tipo de promoción y el valor de la comida.
 ![septimo png](https://user-images.githubusercontent.com/55850991/129127919-1f759d42-d66e-4294-88b1-de61a352c693.jpg)
-
 
