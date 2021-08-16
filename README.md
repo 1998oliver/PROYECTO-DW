@@ -16,6 +16,11 @@ Esto porque muchas veces la población no cuenta con la economía suficiente o p
 ### Efectos:
 Razón por la cual la aplicación ofrece alternativas para que el cliente cubra su necesidad básica.
 
+# JUSTIFICACIÓN 
+El proyecto surge a raíz de aquellas personas que piensan ahorrar dinero, a su vez para aquellas personas que no cuentan con la suficiente economía para pedir o consumir un plato de comida convencional. 
+
+Food Promotions contará con la información de aquellos restaurantes que ofrecen promociones en desayunos, almuerzos y cenas; también se podrá visualizar la ubicación del restaurante para aquellos que quieran ir a consumir al local, o si cuenta con prisa el cliente tendrá la opción de pedir a domicilio.
+
 # MOCKUPS
 #### Primera Vista
 El usuario podrá ingresar con una cuenta de correo y una contraseña ;
