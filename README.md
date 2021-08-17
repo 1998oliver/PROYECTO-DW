@@ -8,12 +8,15 @@ sobre qué tipos de promociones ofrecen los restaurantes, esto contará con actu
 también contara con el registro de los restaurantes, para que la población pueda visitarlos y hacer consumo de ello.
 
 # PLANTEAMIENTO DEL PROBLEMA
+### Causas
+-	 Necesidad básica de alimentación 
+-	Economizar  dinero.
+### Problema 
+-	 Muchas veces la población no cuenta con la economía suficiente o piensa en economizar.
+### Efectos
+-	Gastos elevados.
+-	Pérdida de tiempo.
 
-### Causas:
-Surge de la necesidad básica de alimentación y de economizar dinero.
-### Problema:
-Esto porque muchas veces la población no cuenta con la economía suficiente o piensa en economizar.
-### Efectos:
 Razón por la cual la aplicación ofrece alternativas para que el cliente cubra su necesidad básica.
 
 # JUSTIFICACIÓN 
@@ -75,10 +78,24 @@ La opcion de Ubicación mostrara los restaurantes cercanos al cliente y de todos
 
 #  DESCRIPCIÓN DE LA APLICACIÓN
 
+La aplicación guarda información en la base de datos de la misma aplicación, es decir; la base de datos tendrá el nombre de Food Promotions, en donde se guardarán la información de los usuarios y de los dueños de los usuarios. 
+-	Base de datos Food Promotions: se almacena los datos que brindan los usuarios y también la de los dueños de los restaurantes. 
+### si consume un servicio externo.
 
+-	Google Maps: es donde se podrá ver la ubicación del restaurante y también funciona como la geolocalización del domicilio. 
 
+-	WhatsApp: se usa como mediador entre el cliente y el restaurante donde se podrá chatear con mas confianza. 
+### la información que es necesario guardar en una base de datos.
+  Artículos
+-	Promociones desayuno, almuerzo y cena. 
 
-
+Clientes: 
+-	Correo
+-	Contraseña 
+Restaurantes:
+-	Nombre del restaurante 
+-	Correo y contraseña del dueño. 
+-	Ubicación  
 
 # BIBLIOGRAFÍA
 EDIT.org. (s.f.). Obtenido de https://edit.org/
