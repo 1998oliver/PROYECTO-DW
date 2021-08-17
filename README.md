@@ -1,11 +1,11 @@
 # PROYECTO-DW
 Proyecto  de introducción al desarrollo web
-#  INTRODUCCION
-FOOD PROMOTIONS es planteado como una opción práctica de prestar un servicio a la comunidad, mediante la información de promoción de comidas, pensando en la comodidad y en la facilidad de encontrar variedades de promociones de restaurantes de comida tanto en desayunos, almuerzos y cenas cercano a su trabajo o residencia.
-# TEMA
-La idea de creación de la página web de FOOD PROMOTIONS tiene el propósito de informar a la población
-sobre qué tipos de promociones ofrecen los restaurantes, esto contará con actualización de las promociones,
-también contara con el registro de los restaurantes, para que la población pueda visitarlos y hacer consumo de ello.
+#  FOOD PROMOTIONS
+
+## Introducción
+FOOD PROMOTIONS es planteado como una opción práctica de prestar un servicio a la comunidad, mediante la información de promoción  de comidas, pensando en la  comodidad y en la facilidad de encontrar variedades de promociones de restaurantes de comida tanto en desayunos ,almuerzos y cenas cercano a su trabajo o residencia. 
+## Tema
+La idea de creación de la página web de FOOD PROMOTIONS tiene el propósito de informar a la población sobre qué tipos de promociones de comidas que ofrecen los restaurantes, esto contará con actualización de las promociones, también contará con el registro de los restaurantes que ofrecen las promociones, para que la población pueda visitarlos y hacer consumo de ello.  
 
 # PLANTEAMIENTO DEL PROBLEMA
 ### Causas
