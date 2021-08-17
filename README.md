@@ -91,7 +91,8 @@ La aplicación guarda información en la base de datos de la misma aplicación, 
 
 Clientes: 
 -	Correo
--	Contraseña 
+-	Contraseña
+ 
 Restaurantes:
 -	Nombre del restaurante 
 -	Correo y contraseña del dueño. 
