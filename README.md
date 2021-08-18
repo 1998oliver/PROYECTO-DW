@@ -49,6 +49,7 @@ El usuario podrá ingresar con una cuenta de correo y una contraseña ;
 y si este con cuenta con ello entonces procederá a registrarse.
 ![primero png](https://user-images.githubusercontent.com/55850991/129127581-0f84d61e-5749-4b29-8192-a3602bd08949.jpg)
 
+
 #### Segunda Vista
 En el registro tendra que rellenar las opciones que le aparecen que son el nombre, el correo y una contraseña.
 ![segundo png](https://user-images.githubusercontent.com/55850991/129127866-bd8537d2-57da-4235-87c8-db733cf01685.jpg)
